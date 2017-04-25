@@ -1,21 +1,18 @@
 # Permalinks
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
-permalinks:pretty
+permalink:           pretty
+
 
 # Setup
-title:               'Informationist Repository for Executive Prominent Alzheimer's Disease Project'
-tagline:             'Cool librarian stuff'
-description:         'Information and resources tailored for Paul Crane's EPAD Research Team. Brought to you by Diana Louden and Joanne Rich'
-url:                 http://lanyon.getpoole.com
-baseurl:             '/AD'
+title:               Librarian Project
+tagline:             'Cool Stuff'
+description:         'Project Repository'
+url:                 https://jgrich.github.io/proj
+baseurl:             '/proj/'
 paginate:            5
 
 # About/contact
-author:
-  name:              Diana Louden
-  url:               https://guides.lib.uw.edu/hsl/louden
-  email:             dknl@uw.edu
 author:
   name:              Joanne Rich
   url:               https://guides.lib.uw.edu/hsl/rich
