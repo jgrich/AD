@@ -3,10 +3,11 @@ layout: page
 title:  Contact / Subscribe
 ---
 
-Contact me using the form
+*Contact me by email:*
+jrich@uw.edu
 
 
-Subscribe to our mailing list
+*Subscribe to our mailing list*
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">
