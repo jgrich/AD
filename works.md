@@ -1,9 +1,9 @@
 ---
 layout: page
-title:  working files
+title:  Working Files
 ---
 
-## Working Files
+
 *Please check the repo for uploaded files*
 
 Use the most recently edited files.
