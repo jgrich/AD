@@ -11,7 +11,7 @@ description:         'HSL Project Repository'
 url:                 https://jgrich.github.io/proj
 baseurl:             '/proj'
 paginate:            5
-default_logo:        sitelogo.jpg
+default_logo:        /images/sitelogo.jpg
 
 # About/contact
 author:
