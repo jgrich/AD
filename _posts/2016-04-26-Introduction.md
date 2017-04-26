@@ -1,4 +1,4 @@
-# Introduction
+
 
 We are the University of Washington Health Sciences Librarians.  We have many skills, resources, and experiences that can help you with your academic work.  Some examples include:
 * literature searching for clinical, educational use
