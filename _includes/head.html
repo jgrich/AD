@@ -14,6 +14,8 @@
     {% endif %}
   </title>
 
+  <meta property="og:image" content="{% if page.imagesummary %}{{ site.urlimg }}{{ page.imagesummary }}{% else %}{{ site.urlimg }}{{ site.default_logo }}{% endif %}">{% endif %}
+
   <!-- CSS -->
   <link rel="stylesheet" href="{{ site.baseurl }}/public/css/poole.css">
   <link rel="stylesheet" href="{{ site.baseurl }}/public/css/syntax.css">
