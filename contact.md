@@ -6,8 +6,6 @@ title:  Contact / Subscribe
 ## Contact me by email:
 jrich@uw.edu
 
-
-## Subscribe to the mailing list
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">
