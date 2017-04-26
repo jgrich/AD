@@ -9,7 +9,7 @@ title:               Librarian Project
 tagline:             'Cool Stuff'
 description:         'Project Repository'
 url:                 https://jgrich.github.io/proj
-baseurl:             '/proj/'
+baseurl:             '/proj'
 paginate:            5
 
 # About/contact
