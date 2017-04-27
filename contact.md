@@ -3,7 +3,9 @@ layout: page
 title:  Contact / Subscribe
 ---
 
-## Contact me by email:
+## Contact us by email:
+dknl@uw.edu
+
 jrich@uw.edu
 
 <!-- Begin MailChimp Signup Form -->
