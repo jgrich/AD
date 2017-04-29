@@ -5,9 +5,9 @@ permalink:           pretty
 
 
 # Setup
-title:               Librarian Project
+title:               Informationist Workspace
 tagline:             'Cool Stuff'
-description:         'HSL Project Repository'
+description:         'Project Repository'
 url:                 https://jgrich.github.io/proj
 baseurl:             '/proj'
 paginate:            5
