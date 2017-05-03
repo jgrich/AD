@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  Subscribe / Contact
+title:  Contact / Subscribe
 ---
 
 ## Contact us by email:
