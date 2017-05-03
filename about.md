@@ -10,10 +10,12 @@ title: About
 
 
 - PI provides regular update discussions on the research aims
+- sit in on working meetings
+- attend team lunches
 - interview core research team members
 - reviewed research workflow including input and output data and methods analysis
 - convert research team articles to EndNote library
 - identify junior team members to support
 - investigate repositories for data sharing along with metadata best practices
 - determining which research data can be shared
-- instruments?
+
