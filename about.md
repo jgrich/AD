@@ -19,4 +19,4 @@ title: About
 - investigate repositories for data sharing along with metadata best practices
 - determining which research data can be shared
 
-Activities evolve naturally as we become more immersed in the research team and as the team members familiarize themselves with our combined skills and experience.
+Activities evolve naturally as we become more immersed in the research team and seek relevant training opportunities and as the team members familiarize themselves with our combined skills and experience.
