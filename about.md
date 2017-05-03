@@ -3,10 +3,11 @@ layout: page
 title: About
 ---
 
-<p class="message">
- Paul Crane, Professor, General Internal Medicine, reacted to the NLM Administrative Supplement by initiating contact with the UW Health Sciences Librarians to put forth a proposal to fund informationist services for his Alzheimer's Disease research team.  The NLM proposal was not funded, nevertheless he persisted and successfully secured an Administrative Supplement through the National Institutes on Aging.
+
+ Paul Crane, Professor, General Internal Medicine, reacted to the NLM Administrative Supplement by initiating contact with the UW Health Sciences Librarians to put forth a proposal to fund informationist services for his Alzheimer's Disease (AD) research team.  The NLM proposal was not funded, nevertheless he persisted and successfully secured an Administrative Supplement through the National Institutes on Aging.  Dr. Crane's goal is to identify AD subtypes that can help with prediction of AD conversion and also help tailor treatment of individuals with AD.
+ 
  We joined the research team when they were in Year 1 of their grant funding. Then we began exploring ways to provide meaningful service to the group.
-</p>
+
 
 - interview core research team members
 - reviewed research workflow including input and output data and methods analysis
