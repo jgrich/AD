@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Library, Bibliographic
+title: Publications Library
 ---
 
 The library consists of articles associated with the research and articles authored by research team members.  The library is meant to reflect the publishing record of the research team and support ongoing manuscripts.
