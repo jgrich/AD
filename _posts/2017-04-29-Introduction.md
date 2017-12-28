@@ -1,4 +1,7 @@
-
+---
+layout: post
+title: Introduction 
+---
 
 We are University of Washington Health Sciences Librarians who use our skills, resources, and experiences in collaboration with Dr. Paul Crane's Alzheimer's research team.  We contribute traditional and modern library services to the research and the team members.  Such services include:
 
